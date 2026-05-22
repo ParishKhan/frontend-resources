@@ -320,7 +320,7 @@
 - [Node.js Documentation](https://nodejs.org/docs/) - Official Node.js docs. Comprehensive API reference and guides.
 - [Regular Expressions Info](https://www.regular-expressions.info/) - Comprehensive regex tutorial. The best resource for learning regex.
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs. A must-have for modern CSS architecture.
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/web-development/front-end-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [UI Movement](https://uimovement.com/) - Curated UI animations and interactions. Daily inspiration.
 - [useHooks](https://usehooks.com/) - Collection of useful React hooks. Great for learning and reference.
 - [Vue School](https://vueschool.io/) - Premium Vue.js courses. High-quality video tutorials.
